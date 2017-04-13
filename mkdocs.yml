@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: HT16 Planung Homepage 2017
+
+pages:
+    - Home: index.md
+    - Bestand: bestand.md
