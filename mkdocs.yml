@@ -1,5 +1,8 @@
 site_name: HT16 Planung Homepage 2017
 
 pages:
-    - Home: index.md
-    - Bestand: bestand.md
+    - Home: 'index.md'
+    - Bestand: 'bestand.md'
+    - Neuplanung:
+        - Ziele: 'ziele.md'
+        - Inhalte: 'inhaltstypen.md'
