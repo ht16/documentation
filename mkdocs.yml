@@ -5,4 +5,7 @@ pages:
     - Bestand: 'bestand.md'
     - Neuplanung:
         - Ziele: 'ziele.md'
-        - Inhalte: 'inhaltstypen.md'
+        - Inhaltstypen: 'inhaltstypen.md'
+        - Inhaltselemente: 'inhaltselemente.md'
+        - Architektur: 'infoarchitektur.md'
+        - Design: 'design.md'

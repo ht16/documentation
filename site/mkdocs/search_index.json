@@ -1,0 +1,204 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Homepage HT16 - 2017\n\n\nAuf diesen Seiten werden alle Informationen und Planungsunterlagen gesammelt,\ndie f\u00fcr die Neugestaltung und den Aufbau einer aktuellen Homepage des Vereins\nerforderlich sind.\n\n\nAusgangsfragen\n\n\n\n\n\n\nWas wird das kosten? (TOC)\n\n\n\n\nErstellung der Seite und ggf. zus\u00e4tzlicher Funktionen (?)\n\n\nlaufende Kosten Server (je nach Gr\u00f6\u00dfe und angestrebter Ladezeit 100 bis 200 Eur p.a.)\n\n\nregelm\u00e4\u00dfige technische Betreuung (Sicherheitsupdates u.a.),\n\n\nlaufende inhaltliche Betreuung\n\n\n\n\n\n\n\n\nWas darf es kosten?\n\n\n\n\nWie lange dauert die Erstellung (inkl. Planung und Re-Iteration)?\n\n\nWas wollen wir damit erreichen?\n\n\nWelche Zielgruppen sprechen wir an?\n\n\nWelche Informationen stellen wir bereit?\n\n\nSoll Werbung f\u00fcr Dritte (Sponsoren, Partner o.\u00e4.) angezeigt werden?\n  Wie wird diese ausgeliefert (Adserver, lokal), erfolgt eine Abrechnung oder PI Kontrolle?\n\n\nWelche Dienste bieten wir an (online Anmeldung, Buchung von Kursen etc.)\n\n\nGibt es parallel notwendige \"offline\" Kontakte?", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#homepage-ht16-2017", 
+            "text": "Auf diesen Seiten werden alle Informationen und Planungsunterlagen gesammelt,\ndie f\u00fcr die Neugestaltung und den Aufbau einer aktuellen Homepage des Vereins\nerforderlich sind.", 
+            "title": "Homepage HT16 - 2017"
+        }, 
+        {
+            "location": "/#ausgangsfragen", 
+            "text": "Was wird das kosten? (TOC)   Erstellung der Seite und ggf. zus\u00e4tzlicher Funktionen (?)  laufende Kosten Server (je nach Gr\u00f6\u00dfe und angestrebter Ladezeit 100 bis 200 Eur p.a.)  regelm\u00e4\u00dfige technische Betreuung (Sicherheitsupdates u.a.),  laufende inhaltliche Betreuung     Was darf es kosten?   Wie lange dauert die Erstellung (inkl. Planung und Re-Iteration)?  Was wollen wir damit erreichen?  Welche Zielgruppen sprechen wir an?  Welche Informationen stellen wir bereit?  Soll Werbung f\u00fcr Dritte (Sponsoren, Partner o.\u00e4.) angezeigt werden?\n  Wie wird diese ausgeliefert (Adserver, lokal), erfolgt eine Abrechnung oder PI Kontrolle?  Welche Dienste bieten wir an (online Anmeldung, Buchung von Kursen etc.)  Gibt es parallel notwendige \"offline\" Kontakte?", 
+            "title": "Ausgangsfragen"
+        }, 
+        {
+            "location": "/bestand/", 
+            "text": "Homepage Bestand\n\n\nDie Webseite http://www.ht16.de wurde 2009/2010 mit Drupal 6 entwickelt.\n\n\nEs gibt zwei eigenst\u00e4ndige Unterseiten (Drupal multisite Funktion)\n\n\n\n\nf\u00fcr das Studio http://studio.ht16.de\n\n\nf\u00fcr die Triathlonabteilung http://triathlon.ht16.de\n\n\n\n\nInhaltstypen\n\n\nIn der urspr\u00fcnglichen Installation gab es 17 verschiedene Inhaltstypen. Nach dem Serverumzug 2013 wurden weitere 9 Inhaltstypen erstellt, die alle entweder einen bereits vorhandenen Typ ersetzt oder dupliziert haben. Bei kritischer Betrachtung w\u00e4ren aus derzeitiger Sicht (Anfang 2017) bei vollem Funktionsumfang nur 15 Inhaltstypen erforderlich. Wenn die Inhaltstypen, die urspr\u00fcnglich f\u00fcr jetzt nicht mehr genutzte Funktionen (Sportzeiten inkl. Suche, Umfragen, HT16 Spiegel, Hilfen f\u00fcr Autoren, HT16 Historie und Raumnutzung) abgezogen werden, m\u00fcssten eigentlich nur noch 9 Inhaltstypen gepflegt werden. Tats\u00e4chlich sind es aber doppelt so viele.\n\n\nSeiten, statische Inhalte\n\n\nAbteilungen (og)\n\n\nNewsbeitr\u00e4ge\n\n\nEvents / Veranstaltungen\n\n\nAnsprechpartner\n\n\nEnth\u00e4lt alle Informationen zu Personen im Verein, die entweder eine Funktion bekleiden oder als Trainer / \u00dcbungsleiter Kontakt f\u00fcr Mitglieder oder Interessierte sind.\n\n\nZu erfassende Daten sind der Name, eine E-Mail Adresse (bevorzugt die Vereinsadresse), Telefonnummer und Bereich, f\u00fcr den die Person als Ansprechpartner dient.\n\n\n\n\nDie Telefonnummer und E-Mail Adresse k\u00f6nnen, m\u00fcssen aber nicht \u00f6ffentlich einsehbar sein. Bei verdeckter E-Mail Adresse wird ein Kontaktlink bereitgestellt, \u00fcber den die Nachricht im System erfasst und dann intern an den Ansprechpartner gesendet wird. Der Absender erh\u00e4lt keine Kenntnis der Adresse (praktisch f\u00fcr private E-Mail Adresse ohne @ht16.de).\n\n\nTrainingszeiten\n\n\nTrainingszeiten bestehen im Wesentlich aus Daten f\u00fcr Anfang und Ende einer Einheit sowie zu Beziehungen zu den weiteren Typen Sportst\u00e4tten sowie Sportarten in Form der Abteilungszugeh\u00f6rigkeit. Dar\u00fcber hinaus sind Beschreibung und Trainer vorgesehen, wobei letzteres eine Beziehung zum Inhaltstyp Ansprechpartner sein sollte. Dadurch ist eine Verkn\u00fcpfung zur Kommunikation m\u00f6glich, die nur einmal hinterlegt und gepflegt werden muss. Wechselt ein Trainer / \u00dcbungsleiter, reicht es, diesen als Ansprechpartner anzulegen und bei der jeweiligen Trainingszeit die Beziehung zu aktualisieren. Man erspart bei zum Teil vielfacher Beteiligung eines Trainers die fehleranf\u00e4llige \u00c4nderung einer gro\u00dfen Anzahl von Trainingszeiten.\n\n\nSportst\u00e4tten\n\n\nNewsletter\n\n\nBildergalerien\n\n\nBildergalerien bestehen aus zwei Inhaltstypen: Den Galerien an sich und den eigentlichen Bildern, die so auch zu mehreren Galerien thematisch zugeordnet werden k\u00f6nnen.\n\n\nNachtr\u00e4ge\n\n\nFerienreisen\n\n\nDesign\n\n\nFarbraum\n\n\nDie verwendeten Hauptfarben sind:\n\n\na:link {\n  color: #a10f15;\n}", 
+            "title": "Bestand"
+        }, 
+        {
+            "location": "/bestand/#homepage-bestand", 
+            "text": "Die Webseite http://www.ht16.de wurde 2009/2010 mit Drupal 6 entwickelt.  Es gibt zwei eigenst\u00e4ndige Unterseiten (Drupal multisite Funktion)   f\u00fcr das Studio http://studio.ht16.de  f\u00fcr die Triathlonabteilung http://triathlon.ht16.de", 
+            "title": "Homepage Bestand"
+        }, 
+        {
+            "location": "/bestand/#inhaltstypen", 
+            "text": "In der urspr\u00fcnglichen Installation gab es 17 verschiedene Inhaltstypen. Nach dem Serverumzug 2013 wurden weitere 9 Inhaltstypen erstellt, die alle entweder einen bereits vorhandenen Typ ersetzt oder dupliziert haben. Bei kritischer Betrachtung w\u00e4ren aus derzeitiger Sicht (Anfang 2017) bei vollem Funktionsumfang nur 15 Inhaltstypen erforderlich. Wenn die Inhaltstypen, die urspr\u00fcnglich f\u00fcr jetzt nicht mehr genutzte Funktionen (Sportzeiten inkl. Suche, Umfragen, HT16 Spiegel, Hilfen f\u00fcr Autoren, HT16 Historie und Raumnutzung) abgezogen werden, m\u00fcssten eigentlich nur noch 9 Inhaltstypen gepflegt werden. Tats\u00e4chlich sind es aber doppelt so viele.", 
+            "title": "Inhaltstypen"
+        }, 
+        {
+            "location": "/bestand/#seiten-statische-inhalte", 
+            "text": "", 
+            "title": "Seiten, statische Inhalte"
+        }, 
+        {
+            "location": "/bestand/#abteilungen-og", 
+            "text": "", 
+            "title": "Abteilungen (og)"
+        }, 
+        {
+            "location": "/bestand/#newsbeitrage", 
+            "text": "", 
+            "title": "Newsbeitr\u00e4ge"
+        }, 
+        {
+            "location": "/bestand/#events-veranstaltungen", 
+            "text": "", 
+            "title": "Events / Veranstaltungen"
+        }, 
+        {
+            "location": "/bestand/#ansprechpartner", 
+            "text": "Enth\u00e4lt alle Informationen zu Personen im Verein, die entweder eine Funktion bekleiden oder als Trainer / \u00dcbungsleiter Kontakt f\u00fcr Mitglieder oder Interessierte sind.  Zu erfassende Daten sind der Name, eine E-Mail Adresse (bevorzugt die Vereinsadresse), Telefonnummer und Bereich, f\u00fcr den die Person als Ansprechpartner dient.   Die Telefonnummer und E-Mail Adresse k\u00f6nnen, m\u00fcssen aber nicht \u00f6ffentlich einsehbar sein. Bei verdeckter E-Mail Adresse wird ein Kontaktlink bereitgestellt, \u00fcber den die Nachricht im System erfasst und dann intern an den Ansprechpartner gesendet wird. Der Absender erh\u00e4lt keine Kenntnis der Adresse (praktisch f\u00fcr private E-Mail Adresse ohne @ht16.de).", 
+            "title": "Ansprechpartner"
+        }, 
+        {
+            "location": "/bestand/#trainingszeiten", 
+            "text": "Trainingszeiten bestehen im Wesentlich aus Daten f\u00fcr Anfang und Ende einer Einheit sowie zu Beziehungen zu den weiteren Typen Sportst\u00e4tten sowie Sportarten in Form der Abteilungszugeh\u00f6rigkeit. Dar\u00fcber hinaus sind Beschreibung und Trainer vorgesehen, wobei letzteres eine Beziehung zum Inhaltstyp Ansprechpartner sein sollte. Dadurch ist eine Verkn\u00fcpfung zur Kommunikation m\u00f6glich, die nur einmal hinterlegt und gepflegt werden muss. Wechselt ein Trainer / \u00dcbungsleiter, reicht es, diesen als Ansprechpartner anzulegen und bei der jeweiligen Trainingszeit die Beziehung zu aktualisieren. Man erspart bei zum Teil vielfacher Beteiligung eines Trainers die fehleranf\u00e4llige \u00c4nderung einer gro\u00dfen Anzahl von Trainingszeiten.", 
+            "title": "Trainingszeiten"
+        }, 
+        {
+            "location": "/bestand/#sportstatten", 
+            "text": "", 
+            "title": "Sportst\u00e4tten"
+        }, 
+        {
+            "location": "/bestand/#newsletter", 
+            "text": "", 
+            "title": "Newsletter"
+        }, 
+        {
+            "location": "/bestand/#bildergalerien", 
+            "text": "Bildergalerien bestehen aus zwei Inhaltstypen: Den Galerien an sich und den eigentlichen Bildern, die so auch zu mehreren Galerien thematisch zugeordnet werden k\u00f6nnen.", 
+            "title": "Bildergalerien"
+        }, 
+        {
+            "location": "/bestand/#nachtrage", 
+            "text": "", 
+            "title": "Nachtr\u00e4ge"
+        }, 
+        {
+            "location": "/bestand/#ferienreisen", 
+            "text": "", 
+            "title": "Ferienreisen"
+        }, 
+        {
+            "location": "/bestand/#design", 
+            "text": "", 
+            "title": "Design"
+        }, 
+        {
+            "location": "/bestand/#farbraum", 
+            "text": "Die verwendeten Hauptfarben sind:  a:link {\n  color: #a10f15;\n}", 
+            "title": "Farbraum"
+        }, 
+        {
+            "location": "/ziele/", 
+            "text": "Ziele\n\n\nWas wollen wir mit unserer Homepage erreichen?\n\n\n\n\nPr\u00e4sentation des Vereins nach au\u00dfen\n\n\nunsere Angebote\n\n\nunsere Leistungen\n\n\n\n\n\n\nMitglieder informieren\n\n\nInteressenten werben\n\n\n...", 
+            "title": "Ziele"
+        }, 
+        {
+            "location": "/ziele/#ziele", 
+            "text": "Was wollen wir mit unserer Homepage erreichen?   Pr\u00e4sentation des Vereins nach au\u00dfen  unsere Angebote  unsere Leistungen    Mitglieder informieren  Interessenten werben  ...", 
+            "title": "Ziele"
+        }, 
+        {
+            "location": "/inhaltstypen/", 
+            "text": "Inhaltstypen\n\n\nAlle Inhaltstypen bestehen aus einzelnen \nInhaltselementen\n. Einige dieser Elemente sind allgemeing\u00fcltig, also bei allen Inhaltstypen vorhanden, andere sind einzigartig.\n\n\nWelche Inhalte wollen wir darstellen?\n\n\n\n\nStatische Seiten mit sich kaum \u00e4ndernden Inhalten (z.B. \"\u00dcber uns\", Vereinsgeschichte,\n  Abteilungs\u00fcbersichten, Ansprechpartner etc.)\n\n\nAktuelle Beitr\u00e4ge (News, Berichte)\n\n\nVeranstaltungshinweise (Kalendereintr\u00e4ge)\n\n\nBilder / Galerien\n\n\nSportangebote mit Zeiten und Ort (eigener Inhalt: Raum\u00fcbersicht o.\u00e4.)", 
+            "title": "Inhaltstypen"
+        }, 
+        {
+            "location": "/inhaltstypen/#inhaltstypen", 
+            "text": "Alle Inhaltstypen bestehen aus einzelnen  Inhaltselementen . Einige dieser Elemente sind allgemeing\u00fcltig, also bei allen Inhaltstypen vorhanden, andere sind einzigartig.", 
+            "title": "Inhaltstypen"
+        }, 
+        {
+            "location": "/inhaltstypen/#welche-inhalte-wollen-wir-darstellen", 
+            "text": "Statische Seiten mit sich kaum \u00e4ndernden Inhalten (z.B. \"\u00dcber uns\", Vereinsgeschichte,\n  Abteilungs\u00fcbersichten, Ansprechpartner etc.)  Aktuelle Beitr\u00e4ge (News, Berichte)  Veranstaltungshinweise (Kalendereintr\u00e4ge)  Bilder / Galerien  Sportangebote mit Zeiten und Ort (eigener Inhalt: Raum\u00fcbersicht o.\u00e4.)", 
+            "title": "Welche Inhalte wollen wir darstellen?"
+        }, 
+        {
+            "location": "/inhaltselemente/", 
+            "text": "Inhaltselemente\n\n\nInhaltselemente sind typische Bestandteile einzelner oder auch aller \nInhaltstypen\n.\n\n\nSie k\u00f6nnen als Felder (fields) oder vergleichbare Strukturelemente verstanden werden, aus denen sich ein Inhaltstyp (nodetype oder entity) zusammensetzt.\n\n\n\u00dcberschriften\n\n\nJeder Inhalt sollte eine Form von \u00dcberschrift oder Titel haben. Daran kann eine Identifizierung im Administrationsbereich erfolgen und eine einfache Zuordnung erm\u00f6glichen.\n\n\n\n\n\u00dcberschriften lassen sich auch zusammen mit Textzusammenfassungen nutzen, um Listen f\u00fcr Suchergebnisse, Archive oder Aufstellungen aller Art zu bilden.\n\n\nBilder\n\n\nBilder k\u00f6nnen entweder einzeln oder zu mehreren auf Seiten erscheinen. Bei mehreren Bildern kann auch eine Darstellung als Galerie aus kleinen Vorschaubildern oder als Slider in Betracht kommen.\n\n\n\n\nBild im Querformat\n\n\n\n\nVorschaubild\n\n\n\n\nBild im Hochformat\n\n\nTextinhalt\n\n\nTextinhalte k\u00f6nnen verschiedenste Flie\u00dftexte aufnehmen. Sie k\u00f6nnen auch in verschiedene Abschnitte unterteilt sein, um Zuordnungen oder Aufteilungen zu erleichtern und wiederverwendbare Inhalte zu schaffen.\n\n\n\n\nTextzusammenfassung\n\n\nZusammenfassungen sind kurze (Intro-) Texte, die den wesentlichen Inhalt eines l\u00e4ngeren Beitrags oder Artikels auf zwei bis drei S\u00e4tze k\u00fcrzen. Sie dienen der \u00fcbersichtlichen Darstellung auf \u00dcbersichtsseiten oder k\u00f6nnen als selbstst\u00e4ndige Kurzmeldungen verwendet werden. Auch ein Einsatz als Teaser f\u00fcr \"das k\u00f6nnte auch interessant sein\" ist denkbar.\n\n\n\n\nAnlagen / Anh\u00e4nge\n\n\nAuf Seiten sollten Anlagen oder Anh\u00e4nge m\u00f6glich sein, die weiterf\u00fchrende Informationen zum Download bereithalten. So sind hier die Beitragsordnung oder die Satzung Beispiele f\u00fcr die Anwendung. Denkbar sind auch hochaufl\u00f6sende Flyer oder Karten, die ausgedruckt werden sollen.\n\n\nVerweise zu anderen Informationen\n\n\nLinks und Verweise zu weiterf\u00fchrenden Informationen, sowohl seitenintern, als auch extern im Internet, sollten in eigenen Feldern verwaltet und nicht in den Flie\u00dftext eingegeben werden.\n\n\nDies erm\u00f6glicht neben der \u00dcberpr\u00fcfung der korrekten Syntax auch eine mehrfache Verwendung, ohne bei komplexen oder langen Links diese mehrfach eingeben zu m\u00fcssen.\n\n\nVerwaltungsinformationen\n\n\nAlle Seiten enthalten bzw. erhalten automatisch Verwaltungsinformationen. Einige dieser Informationen sind auch interessant daf\u00fcr, dem Benutzer bzw. Leser der Seite angezeigt zu werden. Dies sind u.a.\n\n\n\n\nder Autor des Beitrags,\n\n\ndas Beitragsdatum,\n\n\nURI (\"formsch\u00f6ne\" Pfade erleichtern das Wiederfinden oder direkte Eingeben in den Browser)\n\n\n\n\nBesondere Felder\n\n\nBei einzelnen Inhaltstypen sind besondere Felder erforderlich, um die Funktionen des jeweiligen Typs zu gew\u00e4hrleisten.\n\n\nBeispiel: Kalendereintr\u00e4ge ben\u00f6tigen ein Anfangs- und ein Enddatum, Zeitangaben und eventuell auch besondere Ortsangaben (Halle XY, Wegbeschreibung bei entfernten Sportst\u00e4tten etc.).\n\n\nDiese m\u00fcssen als Felder erstellt und aufgenommen werden, die sonst nicht bei Inhalten erforderlich sind. Entsprechende Angaben finden sich daher bei den einzelnen Inhaltstypen.", 
+            "title": "Inhaltselemente"
+        }, 
+        {
+            "location": "/inhaltselemente/#inhaltselemente", 
+            "text": "Inhaltselemente sind typische Bestandteile einzelner oder auch aller  Inhaltstypen .  Sie k\u00f6nnen als Felder (fields) oder vergleichbare Strukturelemente verstanden werden, aus denen sich ein Inhaltstyp (nodetype oder entity) zusammensetzt.", 
+            "title": "Inhaltselemente"
+        }, 
+        {
+            "location": "/inhaltselemente/#uberschriften", 
+            "text": "Jeder Inhalt sollte eine Form von \u00dcberschrift oder Titel haben. Daran kann eine Identifizierung im Administrationsbereich erfolgen und eine einfache Zuordnung erm\u00f6glichen.   \u00dcberschriften lassen sich auch zusammen mit Textzusammenfassungen nutzen, um Listen f\u00fcr Suchergebnisse, Archive oder Aufstellungen aller Art zu bilden.", 
+            "title": "\u00dcberschriften"
+        }, 
+        {
+            "location": "/inhaltselemente/#bilder", 
+            "text": "Bilder k\u00f6nnen entweder einzeln oder zu mehreren auf Seiten erscheinen. Bei mehreren Bildern kann auch eine Darstellung als Galerie aus kleinen Vorschaubildern oder als Slider in Betracht kommen.   Bild im Querformat   Vorschaubild   Bild im Hochformat", 
+            "title": "Bilder"
+        }, 
+        {
+            "location": "/inhaltselemente/#textinhalt", 
+            "text": "Textinhalte k\u00f6nnen verschiedenste Flie\u00dftexte aufnehmen. Sie k\u00f6nnen auch in verschiedene Abschnitte unterteilt sein, um Zuordnungen oder Aufteilungen zu erleichtern und wiederverwendbare Inhalte zu schaffen.", 
+            "title": "Textinhalt"
+        }, 
+        {
+            "location": "/inhaltselemente/#textzusammenfassung", 
+            "text": "Zusammenfassungen sind kurze (Intro-) Texte, die den wesentlichen Inhalt eines l\u00e4ngeren Beitrags oder Artikels auf zwei bis drei S\u00e4tze k\u00fcrzen. Sie dienen der \u00fcbersichtlichen Darstellung auf \u00dcbersichtsseiten oder k\u00f6nnen als selbstst\u00e4ndige Kurzmeldungen verwendet werden. Auch ein Einsatz als Teaser f\u00fcr \"das k\u00f6nnte auch interessant sein\" ist denkbar.", 
+            "title": "Textzusammenfassung"
+        }, 
+        {
+            "location": "/inhaltselemente/#anlagen-anhange", 
+            "text": "Auf Seiten sollten Anlagen oder Anh\u00e4nge m\u00f6glich sein, die weiterf\u00fchrende Informationen zum Download bereithalten. So sind hier die Beitragsordnung oder die Satzung Beispiele f\u00fcr die Anwendung. Denkbar sind auch hochaufl\u00f6sende Flyer oder Karten, die ausgedruckt werden sollen.", 
+            "title": "Anlagen / Anh\u00e4nge"
+        }, 
+        {
+            "location": "/inhaltselemente/#verweise-zu-anderen-informationen", 
+            "text": "Links und Verweise zu weiterf\u00fchrenden Informationen, sowohl seitenintern, als auch extern im Internet, sollten in eigenen Feldern verwaltet und nicht in den Flie\u00dftext eingegeben werden.  Dies erm\u00f6glicht neben der \u00dcberpr\u00fcfung der korrekten Syntax auch eine mehrfache Verwendung, ohne bei komplexen oder langen Links diese mehrfach eingeben zu m\u00fcssen.", 
+            "title": "Verweise zu anderen Informationen"
+        }, 
+        {
+            "location": "/inhaltselemente/#verwaltungsinformationen", 
+            "text": "Alle Seiten enthalten bzw. erhalten automatisch Verwaltungsinformationen. Einige dieser Informationen sind auch interessant daf\u00fcr, dem Benutzer bzw. Leser der Seite angezeigt zu werden. Dies sind u.a.   der Autor des Beitrags,  das Beitragsdatum,  URI (\"formsch\u00f6ne\" Pfade erleichtern das Wiederfinden oder direkte Eingeben in den Browser)", 
+            "title": "Verwaltungsinformationen"
+        }, 
+        {
+            "location": "/inhaltselemente/#besondere-felder", 
+            "text": "Bei einzelnen Inhaltstypen sind besondere Felder erforderlich, um die Funktionen des jeweiligen Typs zu gew\u00e4hrleisten.  Beispiel: Kalendereintr\u00e4ge ben\u00f6tigen ein Anfangs- und ein Enddatum, Zeitangaben und eventuell auch besondere Ortsangaben (Halle XY, Wegbeschreibung bei entfernten Sportst\u00e4tten etc.).  Diese m\u00fcssen als Felder erstellt und aufgenommen werden, die sonst nicht bei Inhalten erforderlich sind. Entsprechende Angaben finden sich daher bei den einzelnen Inhaltstypen.", 
+            "title": "Besondere Felder"
+        }, 
+        {
+            "location": "/infoarchitektur/", 
+            "text": "Informationsarchitektur\n\n\nWie sollte die Homepage insgesamt aufgebaut sein, damit die Mitglieder und Interessenten m\u00f6glichst schnell und einfach an die gesuchten Informationen gelangen?\n\n\nWie kann die Homepage aufgebaut sein, um die inhaltliche Pflege den jeweils Verantwortlichen (Hauptverein, Abteilungen) m\u00f6glichst eing\u00e4ngig und selbsterkl\u00e4rend zu belassen?\n\n\nZu diesen Punkten geh\u00f6ren insbesondere der Aufbau der einzelnen Inhaltstypen und die Wiederverwendbarkeit der einmal erstellten Inhalte (Stichwort \"chunks vs. blobs\") sowie der Aufbau einer intuitiven Navigation, die kein Scrollen durch endlose Listen oder Men\u00fcs erfordert und nicht in \"Klick-Orgien\" ausarten muss, um die gew\u00fcnschten Informationen zu erreichen.\n\n\nNavigation\n\n\nDie Navigation soll die Besucher gezielt zu ihren Interessen lenken. Dazu darf sie nicht \u00fcberladen sein und darf zumeist nicht mehr als 4 bis 5 Auswahlm\u00f6glichkeiten bieten. Bei richtigem Inhaltsaufbau und Informationsarchitektur ist ein ausuferndes Men\u00fc auch nicht erforderlich.\n\n\n\n\nMen\u00fc klassisch und Mobil\n\n\nUnterschreitet der verf\u00fcgbare Bildschirm eine bestimmte Gr\u00f6\u00dfe (z.B. 1000px), reduziert sich nicht nur die Anzahl der Panels, sondern es wird auch aus dem klassischen Men\u00fc eine Men\u00fcleiste am oberen Bildschirmrand, die bei Bedarf die Men\u00fcpunkte anzeigt. Ansonsten sind die Inhalte \u00fcber die Panels erreichbar.\n\n\nFrontpage, Startseite\n\n\nDie Startseite muss \u00fcbersichtlich sein, die wesentlichen Einstiegspunkte f\u00fcr die Navigation und einige wenige Hauptfunktionen bieten.\n\n\nMit wenigen Panels gelingt ein unkomplizierter Einstieg in die Seite. Diese Panels k\u00f6nnen verschiedene Inhalte haben. Mit der Annahme, dass bis zu 6 Panels (Desktop) bzw. 4 Panels (Mobil) gleichzeitig sichtbar sind, k\u00f6nnen darin gro\u00dffl\u00e4chig Verweise zu den 4 Hauptbereichen der Seite angezeigt werden:\n\n\n\n\n(Sport) Wettkampfsport\n\n\nFitness (-studio)\n\n\nGesundheit (-ssport)\n\n\nVerein (Verwaltung, Mitgliedschaft etc.)\n\n\n\n\nDie im Desktopbereich aufgrund der Gr\u00f6\u00dfe weiter sichtbaren 2 Panels k\u00f6nnten dann mit \n\u00dcberschriften\n der letzten News und mit den kommenden Veranstaltungen gef\u00fcllt werden.\n\n\nBeispiele f\u00fcr die Ansichten:\n\n\n\n\nDesktop Ansicht der Startseite bei gro\u00dfer Bildschirmanzeige (ab ca. 1000px)\n\n\n\n\nAnsicht f\u00fcr kleinere Bildschirme (oder Tablet, gro\u00dfe Mobilger\u00e4te)\n\n\n\n\nverringert sich die Bildschirmgr\u00f6\u00dfe weiter, schrumpft auch die Panelansicht zu\neiner Listenform zusammen, beh\u00e4lt aber die Panel-Optik.", 
+            "title": "Architektur"
+        }, 
+        {
+            "location": "/infoarchitektur/#informationsarchitektur", 
+            "text": "Wie sollte die Homepage insgesamt aufgebaut sein, damit die Mitglieder und Interessenten m\u00f6glichst schnell und einfach an die gesuchten Informationen gelangen?  Wie kann die Homepage aufgebaut sein, um die inhaltliche Pflege den jeweils Verantwortlichen (Hauptverein, Abteilungen) m\u00f6glichst eing\u00e4ngig und selbsterkl\u00e4rend zu belassen?  Zu diesen Punkten geh\u00f6ren insbesondere der Aufbau der einzelnen Inhaltstypen und die Wiederverwendbarkeit der einmal erstellten Inhalte (Stichwort \"chunks vs. blobs\") sowie der Aufbau einer intuitiven Navigation, die kein Scrollen durch endlose Listen oder Men\u00fcs erfordert und nicht in \"Klick-Orgien\" ausarten muss, um die gew\u00fcnschten Informationen zu erreichen.", 
+            "title": "Informationsarchitektur"
+        }, 
+        {
+            "location": "/infoarchitektur/#navigation", 
+            "text": "Die Navigation soll die Besucher gezielt zu ihren Interessen lenken. Dazu darf sie nicht \u00fcberladen sein und darf zumeist nicht mehr als 4 bis 5 Auswahlm\u00f6glichkeiten bieten. Bei richtigem Inhaltsaufbau und Informationsarchitektur ist ein ausuferndes Men\u00fc auch nicht erforderlich.   Men\u00fc klassisch und Mobil  Unterschreitet der verf\u00fcgbare Bildschirm eine bestimmte Gr\u00f6\u00dfe (z.B. 1000px), reduziert sich nicht nur die Anzahl der Panels, sondern es wird auch aus dem klassischen Men\u00fc eine Men\u00fcleiste am oberen Bildschirmrand, die bei Bedarf die Men\u00fcpunkte anzeigt. Ansonsten sind die Inhalte \u00fcber die Panels erreichbar.", 
+            "title": "Navigation"
+        }, 
+        {
+            "location": "/infoarchitektur/#frontpage-startseite", 
+            "text": "Die Startseite muss \u00fcbersichtlich sein, die wesentlichen Einstiegspunkte f\u00fcr die Navigation und einige wenige Hauptfunktionen bieten.  Mit wenigen Panels gelingt ein unkomplizierter Einstieg in die Seite. Diese Panels k\u00f6nnen verschiedene Inhalte haben. Mit der Annahme, dass bis zu 6 Panels (Desktop) bzw. 4 Panels (Mobil) gleichzeitig sichtbar sind, k\u00f6nnen darin gro\u00dffl\u00e4chig Verweise zu den 4 Hauptbereichen der Seite angezeigt werden:   (Sport) Wettkampfsport  Fitness (-studio)  Gesundheit (-ssport)  Verein (Verwaltung, Mitgliedschaft etc.)   Die im Desktopbereich aufgrund der Gr\u00f6\u00dfe weiter sichtbaren 2 Panels k\u00f6nnten dann mit  \u00dcberschriften  der letzten News und mit den kommenden Veranstaltungen gef\u00fcllt werden.  Beispiele f\u00fcr die Ansichten:   Desktop Ansicht der Startseite bei gro\u00dfer Bildschirmanzeige (ab ca. 1000px)   Ansicht f\u00fcr kleinere Bildschirme (oder Tablet, gro\u00dfe Mobilger\u00e4te)   verringert sich die Bildschirmgr\u00f6\u00dfe weiter, schrumpft auch die Panelansicht zu\neiner Listenform zusammen, beh\u00e4lt aber die Panel-Optik.", 
+            "title": "Frontpage, Startseite"
+        }, 
+        {
+            "location": "/design/", 
+            "text": "Design\n\n\nBeispiele f\u00fcr ein Design der Seite: Bei gro\u00dfer Bildschirmbreite, z.b. bei Desktop Rechnern, Spielkonsolen/Fernseher Kombinationen und Laptops ab 13\" mit hoher oder 15\" mit normaler Aufl\u00f6sung wird die Breite der Anzeige zwecks Lesefreundlichkeit begrenzt und der verbleibende Raum rechts und links hintergr\u00fcndig gestaltet.\n\n\n\n\nDesktop Breite\n\n\nSinkt die Bildschirmgr\u00f6\u00dfe bzw. reduziert sich die Breite der Anzeige, wird zun\u00e4chst das Men\u00fc in eine unauff\u00e4llige aber allgemein bekannte Leiste am oberen Rand umgeblendet. Das Vereinslogo wird neu positioniert und die Anzeige auf das Wesentliche beschr\u00e4nkt.\n\n\n\n\nSchmaler (z.B. Tablet)\n\n\nAuf Mobilger\u00e4ten mit sehr geringer Breite (z.B. Smartphone hochkant) erfolgt eine weitere Verschlankung der Anzeige.\n\n\n\n\nKleine Bildschirme (Mobilger\u00e4te)\n\n\nWichtig dabei ist, dass immer noch alle Informationen vorhanden sind und nur deren Anzeige sich etwas \u00e4ndert bzw. an die Gegebenheiten der zur Verf\u00fcgung stehenden Anzeigefl\u00e4che angepasst werden.", 
+            "title": "Design"
+        }, 
+        {
+            "location": "/design/#design", 
+            "text": "Beispiele f\u00fcr ein Design der Seite: Bei gro\u00dfer Bildschirmbreite, z.b. bei Desktop Rechnern, Spielkonsolen/Fernseher Kombinationen und Laptops ab 13\" mit hoher oder 15\" mit normaler Aufl\u00f6sung wird die Breite der Anzeige zwecks Lesefreundlichkeit begrenzt und der verbleibende Raum rechts und links hintergr\u00fcndig gestaltet.   Desktop Breite  Sinkt die Bildschirmgr\u00f6\u00dfe bzw. reduziert sich die Breite der Anzeige, wird zun\u00e4chst das Men\u00fc in eine unauff\u00e4llige aber allgemein bekannte Leiste am oberen Rand umgeblendet. Das Vereinslogo wird neu positioniert und die Anzeige auf das Wesentliche beschr\u00e4nkt.   Schmaler (z.B. Tablet)  Auf Mobilger\u00e4ten mit sehr geringer Breite (z.B. Smartphone hochkant) erfolgt eine weitere Verschlankung der Anzeige.   Kleine Bildschirme (Mobilger\u00e4te)  Wichtig dabei ist, dass immer noch alle Informationen vorhanden sind und nur deren Anzeige sich etwas \u00e4ndert bzw. an die Gegebenheiten der zur Verf\u00fcgung stehenden Anzeigefl\u00e4che angepasst werden.", 
+            "title": "Design"
+        }
+    ]
+}
